@@ -1,5 +1,5 @@
 # 프로젝트 세팅(4조)
-- npm install
+## npm install
 - axios
 - styled-components
 - react-bootstrap bootstrap //app.jsx 파일에 상단에 붙여넣기 - import 'bootstrap/dist/css/bootstrap.min.css';
